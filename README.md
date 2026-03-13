@@ -1,4 +1,4 @@
-# Bank Account CLI
+#Task Manager CLI
 A command-line Task Manager built in C# demonstrating OOP fundamentals.
 
 ## Features
