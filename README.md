@@ -1,4 +1,4 @@
-#Task Manager CLI
+# Task Manager App CLI
 A command-line Task Manager built in C# demonstrating OOP fundamentals.
 
 ## Features
