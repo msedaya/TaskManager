@@ -1,0 +1,14 @@
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\bin\Debug\net10.0\TaskManager.exe
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\bin\Debug\net10.0\TaskManager.deps.json
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\bin\Debug\net10.0\TaskManager.runtimeconfig.json
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\bin\Debug\net10.0\TaskManager.dll
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\bin\Debug\net10.0\TaskManager.pdb
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.AssemblyInfo.cs
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.dll
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\refint\TaskManager.dll
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.pdb
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\TaskManager.genruntimeconfig.cache
+C:\Users\Mike\Desktop\CSharp\Claude\TaskManager\obj\Debug\net10.0\ref\TaskManager.dll
